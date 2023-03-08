@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Open+Sans:wght@700&display=swap');
+
+body {color: #333; margin: 0;padding: 0;font-family: 'Crete Round', serif; }
+
+h1 {width: 100%;font-size: 75px;text-align: center;text-transform: uppercase;color: rgb(255, 255, 255);
+    background-color: #f7c1c1;
+    text-shadow: rgb(122, 122, 122) 4px 3px 0px;}
+
+a{color:#666;text-decoration:none;margin-left: 10px;text-transform: uppercase;}
+a:hover {color: #EE9323;border-bottom: 1px solid #EE9323;}
+p a {font-size: 17px;}
+main {margin-left: 120px;margin-bottom: 80px;}
+button {font-size: 18px;width: 400px;height: 60px;padding: 5px;}
+button:hover{font-weight: bold;}
+h3 {color:rgb(10, 10, 10);font-size: 60px}
+h3{font-size: 30px;text-align: left}
+footer {background-color: #f7c1c1; width: 100%; height:100px;padding: 20px; text-align: center;text-transform: uppercase;}
+
+h1,h2,h3 {font-family: 'Open Sans', sans-serif;}
+h2 {font-size: 50px;text-align: center}
+
+img{max-width: 100%;width: 500px;height:500px;}
